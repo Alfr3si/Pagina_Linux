@@ -44,7 +44,7 @@ function App() {
 </main>
 
         </div>
-<div className = " justify-center p-2 space-x-15 grid grid-cols-6 gap-2 ">
+<div className = " justify-center p-2 space-x-6 grid grid-cols-6 gap-2 ">
         <HashLink smooth to="/Distribuciones#Arch">
             <img src= {archLogo} alt = "archlinux" className = "w-50 hover:scale-150 transition-all duration-300"/>
         </HashLink>
